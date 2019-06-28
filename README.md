@@ -1,2 +1,2 @@
 # manjarorice
-Dotfile collection
+Dotfile Collection
